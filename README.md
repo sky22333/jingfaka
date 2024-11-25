@@ -1,5 +1,7 @@
 ### 鲸发卡v11.61
 
+源码来自：https://github.com/mrlihx/JingFaka_Happy
+
 [鲸发卡官方文档](https://itlanjing.feishu.cn/docs/doccnWnkDiCaf5Hz9BLP092Dnzd)
 
 [鲸发卡官方文档New](https://itlanjing.feishu.cn/docs/doccnz1GgIk19o8d1F5ylG6cs9b#Yks5Dl)
