@@ -1,6 +1,7 @@
 ### 鲸发卡v11.61
+仅供学习使用，禁止商用，商用请购买[官方](https://www.jingsoft.com/)原版。
 
-源码来自：https://github.com/mrlihx/JingFaka_Happy
+本仓库源码来自：https://github.com/mrlihx/JingFaka_Happy
 
 
 > 安装
